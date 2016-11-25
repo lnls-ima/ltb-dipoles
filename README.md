@@ -1,2 +1,2 @@
-# ltb-dipoles
-LTB Transfer Line Dipoles
+# tb-dipoles
+TB (Linac to Booster Transport Line) Dipoles
