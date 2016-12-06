@@ -2,6 +2,7 @@
 *_solved.mn
 **/tests
 *_ignore.*
+*.pxp
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
