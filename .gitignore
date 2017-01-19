@@ -3,6 +3,7 @@
 **/tests
 *_ignore.*
 *.pxp
+*_Report.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
