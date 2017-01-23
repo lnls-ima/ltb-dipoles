@@ -1,8 +1,23 @@
 *~
+
+# Magnet files with solutions
 *_solved.mn
+
+# CAD files
+*.stp
+
+# Previous model versions
+model-previous/*.gz
+model-previous/*.zip
+
+# Igor Pro Experiments
+*.pxp
+
+# Tests and temporary files
 **/tests
 *_ignore.*
-*.pxp
+
+# Reports
 *_Report.pdf
 
 # Byte-compiled / optimized / DLL files
@@ -56,13 +71,6 @@ coverage.xml
 
 # Django stuff:
 *.log
-
-# Sphinx documentation
-docs/_build/
-
-# Doxygen documentation
-doc/doxygen/html/
-doc/doxygen/documentation.html
 
 # PyBuilder
 target/
