@@ -5,6 +5,7 @@
 
 # CAD files
 *.stp
+*.step
 
 # Previous model versions
 model-previous/*.gz
