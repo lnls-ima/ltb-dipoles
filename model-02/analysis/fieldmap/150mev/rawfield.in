@@ -26,7 +26,7 @@
 
 # the full name of the file that contains the field map
 
-  fmap_filename            '../../../simulation/magnetic/2016-12-08_TB_Dipole_Model02_Sim_X=-50_50mm_Z=-500_500mm_I=476A.txt'
+  fmap_filename            '../../../simulation/magnetic/2017-08-25_TB_Dipole_Model02_Sim_X=-85_85mm_Z=-500_500mm.txt'
 
 
 # Runge-kutta algorithm used for the integration of the eqs. of motion needs to know

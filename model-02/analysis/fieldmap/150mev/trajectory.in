@@ -65,10 +65,11 @@
 # If only 'traj_rk_s_step' is given then the algorithm will integrate until
 # the z coordinate of the particle reaches the fieldmap bound.
 
-  traj_init_rx                    0.0             # [mm] init_rx at z = s = 0 mm (center of magnet)
-  traj_rk_s_step                  0.1             # [mm]
-  traj_rk_length                  None            # [mm]
-  traj_rk_nrpts                   None
+  traj_init_rx                     0.0    # [mm] init_rx at z = s = 0 mm (center of magnet)
+  #traj_init_rx                    4.647  # (centered sagitta) [mm] init_rx at z = s = 0 mm (center of magnet)
+  traj_rk_s_step                   0.1    # [mm]
+  traj_rk_length                   None   # [mm]
+  traj_rk_nrpts                    None
 
 
 # whether to save trajectory to an ASCII file
