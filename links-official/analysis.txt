@@ -27,7 +27,7 @@ rx position of reference point:     +10.606043 mm
 initial rx position of trajectory:  +0.000000 mm
 sagitta:                            9.2934573353325 mm
 --- multipoles on reference trajectory (rz > 0) ---
-effective_length:                   205.1523425257647 mm
+effective_length:                   151.86719964346514 mm
 perpendicular_grid:                 41 points in [-12.000000,+12.000000] mm
 max_fitting_error_normal            0.010/3366.069 G/G
 max_fitting_error_skew              0.000/0.000 G/G
