@@ -1,0 +1,4 @@
+﻿TB-Dipoles
+
+2017-02-24  Model02   Chamfer poles to remove quadrupolar and sextupolar gradients. 
+2016-11-28  Model01   Model mechanically equal to the Booster dipole but with the length adjusted to match the specified deflection angle. 
