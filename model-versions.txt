@@ -1,4 +1,5 @@
 ﻿TB-Dipoles
 
+2018-05-14  Model03   Minor changes in core shape, change number of turns and coil current.
 2017-02-24  Model02   Chamfer poles to remove quadrupolar and sextupolar gradients. 
 2016-11-28  Model01   Model mechanically equal to the Booster dipole but with the length adjusted to match the specified deflection angle. 
