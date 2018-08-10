@@ -8,7 +8,7 @@
 # This is the input file for trajectory calculation based on a given
 # fieldmap which is performed with the script 'fma_trajectory.py'
 # A controllable fixed-size Runge-Kutta algorithm is used to integrate
-# the equantions of motion of a single electron in the presence of
+# the equations of motion of a single electron in the presence of
 # the magnetic field as defined in the fieldmap.
 #
 # The implemented equations of motion are not approximated. Provided
@@ -31,7 +31,7 @@
 
 # beam energy
 
-  beam_energy               	0.150                       # [GeV]
+  beam_energy               	0.150548             # [GeV]
 
 
 # A trajectory can also be read from file. This is useful when the fieldmap of
@@ -66,7 +66,7 @@
 # the z coordinate of the particle reaches the fieldmap bound.
 
   traj_init_rx                     0.0     # [mm] init_rx at z = s = 0 mm (center of magnet)
-  #traj_init_rx                    4.6467  # (centered sagitta) [mm] init_rx at z = s = 0 mm (center of magnet)
+  traj_init_rx                    4.6467   # (centered sagitta) [mm] init_rx at z = s = 0 mm (center of magnet)
   traj_rk_s_step                   0.1     # [mm]
   traj_rk_length                   None    # [mm]
   traj_rk_nrpts                    None
