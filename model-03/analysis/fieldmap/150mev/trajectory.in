@@ -31,7 +31,8 @@
 
 # beam energy
 
-  beam_energy               	0.150548             # [GeV]
+#  beam_energy               	0.150548             # [GeV]
+  beam_energy                0.150                # [GeV]
 
 
 # A trajectory can also be read from file. This is useful when the fieldmap of
