@@ -1,0 +1,15 @@
+--- fieldmap ---
+timestamp:                          2018-07-31_19-45-00
+filename:                           2018-07-31_DTL-002_Model03_Hall_Imc=253.622A.dat
+magnet_label:                       DTL-002
+magnet_length:                      294.5 mm
+main_coil_current:                  253.622 A
+main_coil_NI:                       5833.31 A
+magnetic_gap:                       33.0 mm
+control_gap:                        None mm
+ry_grid:                            1 point in [0.0,0.0] mm (step of 0.000000 mm)
+rx_grid:                            77 points in [-76.0,76.0] mm (step of 2.000000 mm)
+rz_grid:                            501 points in [-500.0,500.0] mm (step of 2.000000 mm)
+by@(all)(axis):                     (min:-0.43362 max:+0.00028) (min:-0.43361 max:+0.00028) Tesla
+bx@(all)(axis):                     (min:+0.00006 max:+0.02379) (min:+0.00008 max:+0.02364) Tesla
+bz@(all)(axis):                     (min:-0.00466 max:+0.00023) (min:-0.00451 max:+0.00020) Tesla
