@@ -1,9 +1,9 @@
-fieldmap_name:     	DTL-001
+fieldmap_name:     	TBD-01
 timestamp:         	2018-08-01_15-59-00
-filename:          	2018-08-01_DTL-001_Model03_Hall_Imc=253.622A.dat
+filename:          	2018-08-01_TBD-01_Model03_Hall_Imc=253.622A.dat
 nr_magnets:        	1
 
-magnet_name:       	DTL-001
+magnet_name:       	TBD-01
 gap[mm]:           	33
 control_gap[mm]:   	--
 magnet_length[mm]: 	294.5
