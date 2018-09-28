@@ -1,0 +1,19 @@
+# ==========================
+# fma_rawfield.py input file
+# Accelerator Physics LNLS
+# ==========================
+
+# --- Summary ---
+#
+# This script integrates fitted multipoles at each segment of the hard-edge model
+
+# --- Input parameters ---
+
+# each analysis has an identity label used for naming output files
+
+  config_label                      'DLT-001-253p62A'
+
+
+# list with lengths of model segments
+
+   model_segmentation               (80,20,20,20,20,20,30,30)
