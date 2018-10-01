@@ -1,0 +1,27 @@
+--- fieldmap ---
+timestamp:                          2018-09-22_10-32-39
+filename:                           2018-09-22_TBD-01_Hall_X=-76_76mm_Z=-500_500mm_Imc=329.709A_ID=45.dat
+magnet_label:                       TBD-01
+magnet_length:                      294.5 mm
+main_coil_current:                  329.709 A
+magnetic_gap:                       33.0 mm
+control_gap:                        None mm
+ry_grid:                            1 point in [0.0,0.0] mm (step of 0.000000 mm)
+rx_grid:                            39 points in [-76.0,76.0] mm (step of 4.000000 mm)
+rz_grid:                            501 points in [-500.0,500.0] mm (step of 2.000000 mm)
+by@(all)(axis):                     (min:-0.56299 max:+0.00028) (min:-0.56299 max:+0.00028) Tesla
+bx@(all)(axis):                     (min:+0.00009 max:+0.03077) (min:+0.00013 max:+0.03075) Tesla
+bz@(all)(axis):                     (min:-0.00023 max:+0.00422) (min:-0.00008 max:+0.00401) Tesla
+--- trajectory (rz > 0.0 mm) ---
+beam_energy:                        1.500000e-01 GeV
+horizontal_deflection_angle:        -9.8091e+00 deg.
+vertical_deflection_angle:          +0.0000e+00 deg.
+trajectory_length:                  505.7000000000465 mm
+trajectory_nrpts:                   5058
+trajectory_s_step:                  0.1 mm
+max_abs_bx@trajectory:              +0.030746 Tesla at (s,rx,ry,rz) = (93.79999999999895,-0.2971631575876522,0.0,93.62608090316765) mm
+max_abs_by@trajectory:              -0.562965 Tesla at (s,rx,ry,rz) = (0.0,4.6467,0.0,0.0) mm
+max_abs_bz@trajectory:              +0.004013 Tesla at (s,rx,ry,rz) = (0.0,4.6467,0.0,0.0) mm
+rx position of reference point:     +18.618989 mm
+initial rx position of trajectory:  +4.646700 mm
+sagitta:                            12.111475737224215 mm
