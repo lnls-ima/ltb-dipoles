@@ -54,7 +54,7 @@
   traj_force_midplane_flag        True
 
 
-# There is the option to serach for a initial rx position that will result in a trajectory that
+# There is the option to search for a initial rx position that will result in a trajectory that
 # is centered in the good-field region of the magnet (around rx == 0)
 
   traj_center_sagitta_flag        False
