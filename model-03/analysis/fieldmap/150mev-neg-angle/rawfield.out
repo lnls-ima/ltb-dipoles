@@ -1,0 +1,15 @@
+--- fieldmap ---
+timestamp:                          2018-08-04_10-22-46
+filename:                           2018-08-04_TB_Dipole_Model03_Sim_X=-85_85mm_Z=-500_500mm_Imc=249.1A.txt
+magnet_label:                       TB
+magnet_length:                      294.5 mm
+main_coil_current:                  249.1 A
+main_coil_NI:                       5729.3 A
+magnetic_gap:                       33.0 mm
+control_gap:                        None mm
+ry_grid:                            1 point in [0.0,0.0] mm (step of 0.000000 mm)
+rx_grid:                            171 points in [-85.0,85.0] mm (step of 1.000000 mm)
+rz_grid:                            1001 points in [-500.0,500.0] mm (step of 1.000000 mm)
+by@(all)(axis):                     (min:-0.43290 max:-0.00004) (min:-0.43290 max:-0.00005) Tesla
+bx@(all)(axis):                     (min:-0.00000 max:+0.00000) (min:-0.00000 max:+0.00000) Tesla
+bz@(all)(axis):                     (min:-0.00000 max:+0.00000) (min:-0.00000 max:+0.00000) Tesla
