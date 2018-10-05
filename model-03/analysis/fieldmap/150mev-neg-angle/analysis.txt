@@ -14,7 +14,7 @@ by@(all)(axis):                     (min:-0.43290 max:-0.00004) (min:-0.43290 ma
 bx@(all)(axis):                     (min:-0.00000 max:+0.00000) (min:-0.00000 max:+0.00000) Tesla
 bz@(all)(axis):                     (min:-0.00000 max:+0.00000) (min:-0.00000 max:+0.00000) Tesla
 --- trajectory (rz > 0.0 mm) ---
-beam_energy:                        0.150 GeV
+beam_energy:                        1.500000e-01 GeV
 horizontal_deflection_angle:        -7.5002e+00 deg.
 vertical_deflection_angle:          +0.0000e+00 deg.
 trajectory_length:                  503.30000000004594 mm
