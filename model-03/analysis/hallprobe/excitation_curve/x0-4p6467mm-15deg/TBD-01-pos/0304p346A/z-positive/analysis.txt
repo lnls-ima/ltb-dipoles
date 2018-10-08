@@ -1,0 +1,53 @@
+--- fieldmap ---
+timestamp:                          2018-09-22_10-32-39
+filename:                           2018-09-22_TBD-01_Hall_X=-76_76mm_Z=-500_500mm_Imc=304.346A_ID=44.dat
+magnet_label:                       TBD-01
+magnet_length:                      294.5 mm
+main_coil_current:                  304.346 A
+magnetic_gap:                       33.0 mm
+control_gap:                        None mm
+ry_grid:                            1 point in [0.0,0.0] mm (step of 0.000000 mm)
+rx_grid:                            39 points in [-76.0,76.0] mm (step of 4.000000 mm)
+rz_grid:                            501 points in [-500.0,500.0] mm (step of 2.000000 mm)
+by@(all)(axis):                     (min:-0.00029 max:+0.51995) (min:-0.00028 max:+0.51995) Tesla
+bx@(all)(axis):                     (min:-0.02838 max:-0.00010) (min:-0.02836 max:-0.00013) Tesla
+bz@(all)(axis):                     (min:-0.00390 max:+0.00022) (min:-0.00370 max:+0.00008) Tesla
+--- trajectory (rz > 0.0 mm) ---
+beam_energy:                        1.807209e-01 GeV
+horizontal_deflection_angle:        +7.5161e+00 deg.
+vertical_deflection_angle:          +0.0000e+00 deg.
+trajectory_length:                  503.30000000004594 mm
+trajectory_nrpts:                   5034
+trajectory_s_step:                  0.1 mm
+max_abs_bx@trajectory:              -0.028361 Tesla at (s,rx,ry,rz) = (91.89999999999905,-1.0071847858851528,0.0,91.8038500192458) mm
+max_abs_by@trajectory:              +0.519952 Tesla at (s,rx,ry,rz) = (0.0,-4.6467,0.0,0.0) mm
+max_abs_bz@trajectory:              -0.003681 Tesla at (s,rx,ry,rz) = (0.0,-4.6467,0.0,0.0) mm
+rx position of reference point:     -15.295608 mm
+initial rx position of trajectory:  -4.646700 mm
+sagitta:                            -9.25677403384786 mm
+--- multipoles on reference trajectory (rz > 0) ---
+effective_length:                   152.85427436270876 mm
+perpendicular_grid:                 41 points in [-12.000000,+12.000000] mm
+max_fitting_error_normal            0.081/3774.677 G/G
+max_fitting_error_skew              283.825/283.825 G/G
+r0_for_relative_multipoles          17.5 mm
+main_monomial                       n = 0, skew:False
+                                       Nn(s=0)      Integ_Nn     Nn/N0(@r0)   |    Sn(s=0)      Integ_Sn     Sn/S0(@r0)  
+<multipole_order n>                    [T/m^n]      [T.m/m^n]        []       |    [T/m^n]      [T.m/m^n]        []      
+n=00:                                5.1995e-01    +7.9078e-02   +1.0000e+00  |      ---           ---           ---     
+n=01:                                7.0889e-04    +4.2907e-02   +9.4955e-03  |      ---           ---           ---     
+n=02:                                6.5594e-01    -1.0605e+00   -4.1072e-03  |      ---           ---           ---     
+n=03:                                2.0243e+01    +3.9377e-01   +2.6687e-05  |      ---           ---           ---     
+n=04:                                6.3020e+03    -2.2589e+02   -2.6791e-04  |      ---           ---           ---     
+n=05:                                1.1760e+05    -1.0464e+04   -2.1720e-04  |      ---           ---           ---     
+n=06:                                2.8626e+07    +1.5469e+05   +5.6186e-05  |      ---           ---           ---     
+--- model polynom_b (rz > 0). units: [m] for length, [rad] for angle and [m^(n-1)] for polynom_b ---
+ len[m]    angle[deg]  PolyB(n=0)   PolyB(n=1)   PolyB(n=2)   PolyB(n=3)   PolyB(n=4)   PolyB(n=5)   PolyB(n=6)   
+ 0.0800 ,  +3.94359 ,  +0.00e+00 ,  -1.10e-05 ,  +5.24e-01 ,  -5.49e+01 ,  -5.56e+02 ,  +2.66e+05 ,  +2.77e+06 , 
+ 0.0200 ,  +0.98293 ,  +0.00e+00 ,  -2.27e-02 ,  -1.12e-01 ,  +7.92e+00 ,  +1.12e+04 ,  -1.25e+05 ,  -4.62e+07 , 
+ 0.0200 ,  +0.93682 ,  +0.00e+00 ,  -5.89e-01 ,  +5.03e+00 ,  +3.11e+01 ,  -4.48e+03 ,  -3.41e+05 ,  +3.08e+07 , 
+ 0.0200 ,  +0.65619 ,  +0.00e+00 ,  -1.61e+00 ,  +8.11e+00 ,  -2.50e+00 ,  -2.46e+03 ,  +1.35e+05 ,  +3.52e+07 , 
+ 0.0200 ,  +0.39396 ,  +0.00e+00 ,  -7.50e-01 ,  +1.64e+01 ,  +1.67e+01 ,  +1.04e+04 ,  +2.30e+05 ,  -2.49e+07 , 
+ 0.0200 ,  +0.25533 ,  +0.00e+00 ,  -3.09e-01 ,  +1.98e+01 ,  +3.73e+01 ,  +4.76e+03 ,  +3.93e+04 ,  -1.06e+07 , 
+ 0.0300 ,  +0.21142 ,  +0.00e+00 ,  -1.33e-01 ,  +1.50e+01 ,  +4.34e+01 ,  +2.30e+03 ,  -6.24e+04 ,  -8.37e+06 , 
+ 0.0300 ,  +0.11976 ,  -8.74e+00 ,  -5.16e-02 ,  +9.45e+00 ,  +2.10e+01 ,  -1.27e+03 ,  -2.68e+04 ,  +2.91e+06 , 

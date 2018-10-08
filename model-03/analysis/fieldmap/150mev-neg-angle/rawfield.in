@@ -28,11 +28,11 @@
 
   fmap_filename            '../../../simulation/magnetic/2018-08-04_TB_Dipole_Model03_Sim_X=-85_85mm_Z=-500_500mm_Imc=249.1A.txt'
 
-# polarity invertion
+# polarity inversion
 
-fmap_rescale_factor       1.0
+  fmap_rescale_factor       1.0
 
-    
+
 # Runge-kutta algorithm used for the integration of the eqs. of motion needs to know
 # what to do when trajectory reaches the fieldmap bounds. It will either extrapolate the field
 # along the longitudinal (z) direction or consider it to have vanished. This is controlled with

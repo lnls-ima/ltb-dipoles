@@ -29,7 +29,7 @@
   fmap_filename            '../../../simulation/magnetic/2018-08-04_TB_Dipole_Model03_Sim_X=-85_85mm_Z=-500_500mm_Imc=249.1A.txt'
 
 
-# polarity invertion
+# polarity inversion
 
   fmap_rescale_factor       -1.0
 

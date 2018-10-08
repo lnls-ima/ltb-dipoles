@@ -1,0 +1,14 @@
+--- fieldmap ---
+timestamp:                          2018-09-22_10-32-37
+filename:                           2018-09-22_TBD-01_Hall_X=-76_76mm_Z=-500_500mm_Imc=25.362A_ID=31.dat
+magnet_label:                       TBD-01
+magnet_length:                      294.5 mm
+main_coil_current:                  25.362 A
+magnetic_gap:                       33.0 mm
+control_gap:                        None mm
+ry_grid:                            1 point in [0.0,0.0] mm (step of 0.000000 mm)
+rx_grid:                            39 points in [-76.0,76.0] mm (step of 4.000000 mm)
+rz_grid:                            501 points in [-500.0,500.0] mm (step of 2.000000 mm)
+by@(all)(axis):                     (min:-0.00031 max:+0.04284) (min:-0.00031 max:+0.04284) Tesla
+bx@(all)(axis):                     (min:-0.00251 max:-0.00019) (min:-0.00251 max:-0.00019) Tesla
+bz@(all)(axis):                     (min:-0.00025 max:+0.00009) (min:-0.00023 max:+0.00008) Tesla
