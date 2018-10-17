@@ -48,7 +48,7 @@
 # fieldmap so that the total trajectory deflection will exactly match the nominal deflection
 
   traj_is_reference_traj          False
-  model_nominal_angle             15.0                  # [deg] model nominal deflection angle of the magnet
+  model_nominal_angle             -15.0                  # [deg] model nominal deflection angle of the magnet
 
 # There is the option to restrain the trajectory to the midplane (y = 0 mm) of the magnet
 
